@@ -1,0 +1,76 @@
+1.handing：
+###SENSORS：
+Diffuse sensor - Receptacle, detection of workpiece
+The diffuse sensor is used for detection of the workpieces. A fibre optic cable is 
+connected to a fibre optic device. The fibre optic device emits visible red light. The diffuse sensor detects the light reflected by the workpiece Different surfaces or 
+colours changes the amount of reflected light. 
+
+
+Diffuse sensor - Gripper, colour distinction
+The diffuse sensor is used for detection of the workpieces. A fibre optic cable is 
+connected to a fibre optic device. The fibre optic device emits visible red light. The diffuse sensor detects the light reflected by the workpiece Different surfaces or 
+colours changes the amount of reflected light. 
+
+
+Proximity sensor - PicAlfa, linear axis
+The diffuse sensor is used for detection of the workpieces. A fibre optic cable is 
+connected to a fibre optic device. The fibre optic device emits visible red light. The diffuse sensor detects the light reflected by the workpiece Different surfaces or 
+colours changes the amount of reflected light. 
+
+Proximity sensor - PicAlfa, lifting cylinder
+The diffuse sensor is used for detection of the workpieces. A fibre optic cable is 
+connected to a fibre optic device. The fibre optic device emits visible red light. The diffuse sensor detects the light reflected by the workpiece Different surfaces or 
+colours changes the amount of reflected light. 
+
+
+###CONTROLLERS：
+Siemens controller
+Controller：Siemens S7-313C, S7-313C-2DP, S7-314 or S7-315-2DP
+Programming software: Siemens STEP7 version 5.1 or higher
+Festo controlle
+Controller: Festo FEC FC640, IPC CPU HC02, IPC CPU HC20
+Programming software: Festo FST Version 4.02
+Allen Bradley controller
+Controller): Micrologix (ML) 1500
+Programming software: RSLogix 500 / RSLINXLite
+Mitsubishi/MELSEC controller
+Controller): Mitsubishi FX1N
+Programming software): GX IEC Developer 6.01
+
+###DRIVRES：
+penumatic linear and rotary drives
+
+2.sorting
+###SENSORS：
+Diffuse sensor (conveyor belt, detection of workpiece)
+The diffuse sensor is used for detection of the workpieces. A fibre optic cable isconnected to a fibre optic device. The fibre optic device emits visible red light. Thediffuse sensor detects the light reflected by the workpiece Different surfaces orcolours changes the amount of reflected light.
+Diffuse sensor (conveyor belt, colour distinction)
+The diffuse sensor is used for colour distinction of the workpieces. A fibre opticcable is connected to a fibre optic device. The fibre optic device emits visible redlight. The diffuse sensor detects the light reflected by the workpiece Differentsurfaces or colours changes the amount ofreflected light.	
+Inductive proximity sensor (conveyor belt, material recognition)
+The inductive proximity sensor is used for material recognition. Inductive proximitysensors detect metallic objects. The switching distance is a function ofmaterial andsurface finish.
+Proximity sensor (conveyor belt, branch 1/branch 2)
+The proximity sensors are used for end position sensing of the cylinder. Theproximity sensor is sensitive to a permanent magnet mounted on the piston of thecylinder.
+Retro-reflective sensor (slides, filling level)
+The retro-reflective sensor is used for monitoring the filling level of the slidesworking space is occupied, it is not possible to move the lifting cylinder. A retro.reflective sensor consists of transmitter and receiver in the same housing. The retro.reflective sensor emits visible red light. The light is reflected by an external reflectorIf the light beam is interrupted by an object, the switching status of the retro.refective sensor changes.
+
+###CONTROLLERS：
+Siemens controller
+Siemens S7-313C,S7-313C-2DP,S7-314or S7-315-2DP
+Programming software:Siemens STEP7 Version 5.1 or higher
+
+Festo controller
+Festo FEC FC640, IPC CPU HCO2, IPC CPU HC20
+Programming software: Festo FST Version 4.02
+
+Allen Bradley controller
+Controller: Micrologix (ML)1500
+Programming software: RSLogix 500/RSLINXLite
+
+Mitsubishi/MELSEC controller
+Controller: Mitsubishi FX1N
+Programming software: GXlEC Developer 6.01 or higher
+
+###DRIVRES：
+Valve-drive unit combination
+CPV valve terminal (Model 165200)
+One-way flow control valves
